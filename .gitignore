@@ -1,0 +1,29 @@
+# Ignore Unity-specific cache files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Aa]ssets/Plugins/Editor/
+
+# Ignore Visual Studio files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Ignore macOS generated files
+.DS_Store
+
+# Ignore Windows generated files
+Thumbs.db
